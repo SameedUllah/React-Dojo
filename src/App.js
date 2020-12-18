@@ -19,7 +19,7 @@ class App extends Component {
       },
       {
         id: 3,
-        title: 'Meeting ajdias',
+        title: 'Meeting qwerty',
         completed: false
       },
     ]
